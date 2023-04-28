@@ -24,7 +24,7 @@
     --members-width: 240px;
     --background-shading: 100%;
     --background-overlay: rgba(0, 0, 0, 0.2);
-    --background-image: url(https://cdn.discordapp.com/attachments/919366010904133672/1100389356885250108/Snapinsta.app_342747501_2400836476737808_2582640257291802489_n_1080_2.jpg);
+    --background-image: url("");
     --background-position: center;
     --background-size: contain;
     --background-repeat: no-repeat;
@@ -395,20 +395,8 @@
     0% {
         opacity: 1;
     }
-    15% {
-        opacity: 0.5
-    }
-    30% {
-        opacity: 1;
-    }
-    45% {
-        opacity: 0.5
-    }
-    60% {
-        opacity: 1;
-    }
-    75% {
-        opacity: 0.5
+    100% {
+        opacity: 0.2;
     }
 }
 
