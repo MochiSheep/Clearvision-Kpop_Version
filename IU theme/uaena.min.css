@@ -2513,10 +2513,10 @@ textarea::-webkit-scrollbar {
   color: rgba(255, 255, 255, 0.7);
   transition: all 0.3s ease-in-out;
 }
-.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub img{
-    display: none;
+.wrapper-3kah-n .childWrapper-1j_1ub img {
+  display: none;
 }
-.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub,
+.wrapper-3kah-n .childWrapper-1j_1ub,
 .wrapper-3kah-n:hover .childWrapper-1j_1ub {
   background-color: #fff;
   width: 100%;
